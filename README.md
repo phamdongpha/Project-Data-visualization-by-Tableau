@@ -10,6 +10,7 @@ Written in french by PHAM Dong Pha, June Camille, LEZER Arthur, Nataliya PETROVA
 
 On peut la voir directement à cette adresse : tinyurl.com/vizvoyages sur Tableau Public mais il y a des éléments qui ne fonctionnent pas.
 
+ Fichier Application en Tableau : Application Voyage final.twbx
 
 
 

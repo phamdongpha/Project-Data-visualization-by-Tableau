@@ -1,4 +1,4 @@
-# Project Data visualization by Tableau
+# Project Data Visualization by Tableau
 
 Written in french by PHAM Dong Pha, June Camille, LEZER Arthur, Nataliya PETROVA
 
